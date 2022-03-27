@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5029b0ef-1d33-4706-adfa-3224d6c77146
 resourcetype: Document
 title: Trip Report
 uid: 1f0c8e6c-8a8c-b2f9-9df9-e187a44afc3f

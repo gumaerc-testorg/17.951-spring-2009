@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 62730290-4197-c77e-e68d-d1a5d37684f5
 resourcetype: Document
 title: The ABC's of Nuclear Disarmament in Latin America
 uid: 4313ea70-f02f-2b31-e021-309162240714
