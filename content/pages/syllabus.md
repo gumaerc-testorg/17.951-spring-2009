@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  requirements, and background information on nuclear weapons.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: dbb218cd-6c1a-eb61-9614-d4b02ef33b68
 ---
