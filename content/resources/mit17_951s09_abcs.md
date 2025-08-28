@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: a research paper on nuclear disarmament in
   Latin America.'
-file: /courses/17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009/4313ea70f02f2b31e021309162240714_MIT17_951S09_abcs.pdf
+file: /ol-ocw-studio-app/courses/17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009/4313ea70f02f2b31e021309162240714_MIT17_951S09_abcs.pdf
 file_size: 96491
 file_type: application/pdf
 learning_resource_types:
