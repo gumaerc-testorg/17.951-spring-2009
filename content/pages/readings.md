@@ -27,7 +27,7 @@ No readings
 What is a Nuclear Weapon?
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262510882) Cote, Owen, Jr., Graham T. Allison, Richard A. Falkenrath, and Steven E. Miller. "Appendix B: A Primer on Fissile Materials and Nuclear Weapon Design." In *Avoiding Nuclear Anarchy: Containing the Threat of Loose Russian Nuclear Weapons and Fissile Material*. Cambridge, MA: The MIT Press, 1996. ISBN: 9780262510882.
+{{% resource_link "a80cb2c6-f0e5-4634-b294-ca0aaa5b85f3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cote, Owen, Jr., Graham T. Allison, Richard A. Falkenrath, and Steven E. Miller. "Appendix B: A Primer on Fissile Materials and Nuclear Weapon Design." In *Avoiding Nuclear Anarchy: Containing the Threat of Loose Russian Nuclear Weapons and Fissile Material*. Cambridge, MA: The MIT Press, 1996. ISBN: 9780262510882.
 
 Holdren, John, and Matt Bunn. "Technical Background: Nuclear Basics, Nuclear Weapons Design and Materials, and Nuclear Weapon Effects." Nuclear Threat Initiative, 2002.
 
@@ -45,17 +45,17 @@ How Do You Make One?
 
 Holdren, John, and Matt Bunn. "Technical Background: Nuclear Material Production." Nuclear Threat Initiative, 2002.
 
-Smyth, Hendry De Wolf. "[Atomic Energy for Military Purposes](http://nuclearweaponarchive.org/Smyth/index.html)." *Reviews of Modern Physics* 17, no. 4 (October 1945): 366-370, 382-384, 392-401, 411-419 and 422-430.
+Smyth, Hendry De Wolf. "{{% resource_link "10dbab52-e1b9-4e65-a45f-2224158ae9c0" "Atomic Energy for Military Purposes" %}}." *Reviews of Modern Physics* 17, no. 4 (October 1945): 366-370, 382-384, 392-401, 411-419 and 422-430.
 
 Carlisle, Rodney P., and Joan M. Zenzen. *Supplying the Nuclear Arsenal: American Production Reactors, 1942-1992*. Baltimore, MD: Johns Hopkins University Press, 1996, pp. 70-78. ISBN: 9780801852077.
 
-U.S. Congress, Office of Technology Assessment. [*Technologies Underlying Weapons of Mass Destruction*](http://www.foreignaffairs.com/articles/49954/eliot-a-cohen/technologies-underlying-weapons-of-mass-destruction). U.S. Government Printing Office, 1993, pp. 136-149 and 176-180.
+U.S. Congress, Office of Technology Assessment. {{% resource_link "d3816f54-f4dc-4a73-a31c-1c4876310877" "*Technologies Underlying Weapons of Mass Destruction*" %}}. U.S. Government Printing Office, 1993, pp. 136-149 and 176-180.
 
-Albright, David. "North Korean Plutonium Production." *Science & Global Security* 5 (1994): 63-87. ([PDF](https://www.researchgate.net/publication/250892076_North_Korean_Plutonium_Production))
+Albright, David. "North Korean Plutonium Production." *Science & Global Security* 5 (1994): 63-87. ({{% resource_link "d2bf2d8f-e8ad-4df7-ac18-a2a2c21e4c4c" "PDF" %}})
 
 Albright, David, Frans Berkhout, and William Walker. *Plutonium and Highly Enriched Uranium 1996, World Inventories, Capabilities, and Policies*. Oxford, UK: Oxford University Press, 1997, pp. 271-279 and 461-471. ISBN: 9780198280095.
 
-International Panel on Fissile Materials. *Global Fissile Material Report 2008: Scope and Verification of a Fissile Material (Cutoff) Treaty*. 2008. pp. 7-21. ([PDF - 7.2MB](http://www.fissilematerials.org/ipfm/site_down/gfmr08.pdf))
+International Panel on Fissile Materials. *Global Fissile Material Report 2008: Scope and Verification of a Fissile Material (Cutoff) Treaty*. 2008. pp. 7-21. ({{% resource_link "89d95626-4d2d-43a9-9173-00cd069a655b" "PDF - 7.2MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -83,9 +83,9 @@ Beard, Edmund. *Developing the ICBM*. New York, NY: Columbia University Press, 1
 
 Spinardi, Graham. *From Polaris to Trident: The Development of U.S. Fleet Ballistic Missle Technology*. Cambridge, UK: Cambridge University Press, 2008, pp. 19-34. ISBN: 9780521054010.
 
-Reed, George A. [*U.S. Defense Policy, U.S. Air Force Doctrine and Strategic Nuclear Weapon Systems, 1958-1964: The Case of the Minuteman ICBM*](http://www.osti.gov/energycitations/product.biblio.jsp?osti_id=6946734). Durham, NC: Duke University, 1986, pp. 42-100.
+Reed, George A. {{% resource_link "63eef004-02a3-46c1-8de7-c6367f65657a" "*U.S. Defense Policy, U.S. Air Force Doctrine and Strategic Nuclear Weapon Systems, 1958-1964: The Case of the Minuteman ICBM*" %}}. Durham, NC: Duke University, 1986, pp. 42-100.
 
-Greenwood, Ted. [*Making the MIRV: A Study of Defense Decision Making*](http://www.foreignaffairs.com/articles/30435/andrew-j-pierre/making-the-mirv-a-study-of-defense-decision-making). Lanham, MD: University Press of America, 1988, pp. 1-11 and 27-50.
+Greenwood, Ted. {{% resource_link "373b4aaa-ed5d-470e-a514-6190bbdf62d5" "*Making the MIRV: A Study of Defense Decision Making*" %}}. Lanham, MD: University Press of America, 1988, pp. 1-11 and 27-50.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -115,7 +115,7 @@ Cote, Owen. "Collecting the D-5 Dividend." *International Security* 16, no. 2 (A
 How Do You Model Exchanges?
 {{< tdclose >}}{{< tdopen >}}
 
-Davis, Lynn Etheridge, and Warner R. Schilling. "[All You Ever Wanted to Know about MIRV and ICBM Calculations but Were Not Cleared to Ask](http://jcr.sagepub.com/cgi/content/abstract/17/2/207)." *Journal of Conflict Resolution* 17, no. 2 (June 1973): 207-242.
+Davis, Lynn Etheridge, and Warner R. Schilling. "{{% resource_link "32336fb0-1fb6-46f8-8cac-88bba369cacf" "All You Ever Wanted to Know about MIRV and ICBM Calculations but Were Not Cleared to Ask" %}}." *Journal of Conflict Resolution* 17, no. 2 (June 1973): 207-242.
 
 Epstein, Joshua M. *The 1987 Defense Budget*. Washington, DC: Brookings Institution Press, 2000, pp. 10-25. ISBN: 9780815724575.
 
@@ -127,15 +127,15 @@ Salman, Michael, Kevin J. Sullivan, and Stephen Van Evera. "Analysis or Propagan
 Why Do Countries Pursue or Forego Nuclear Weapons?
 {{< tdclose >}}{{< tdopen >}}
 
-Sagan, Scott D. "Why Do States Build Nuclear Weapons: Three Models in Search of a Bomb." *International Security* 21, no. 3 (Winter 1996/97): 54-86. ([PDF - 3.6MB](http://faculty.maxwell.syr.edu/rdenever/ppa%20730-11/sagan.pdf))
+Sagan, Scott D. "Why Do States Build Nuclear Weapons: Three Models in Search of a Bomb." *International Security* 21, no. 3 (Winter 1996/97): 54-86. ({{% resource_link "f401a0a3-9cfd-4b6b-b41e-5a3ccafa4d2b" "PDF - 3.6MB" %}})
 
 Quester, George H. "The Epistemology of Nuclear Proliferation." *Journal of International Affairs* 40 (Summer 1986): 177-188.
 
-Abraham, Itty. "The Ambivalence of Nuclear Histories." *Osiris* 21 (2006): 49-65. ([PDF](https://www.jstor.org/stable/pdf/10.1086/507135.pdf?acceptTC=true&jpdConfirm=true))
+Abraham, Itty. "The Ambivalence of Nuclear Histories." *Osiris* 21 (2006): 49-65. ({{% resource_link "a43400dc-42a4-4e7e-ab47-3b4268ca059e" "PDF" %}})
 
-Betts, Richard K. "[Paranoids, Pygmies, Pariahs and Nonproliferation Revisited](http://www.informaworld.com/smpp/content~db=all~content=a788881305)." *Security Studies* 2, no. 3 (1993): 100-124.
+Betts, Richard K. "{{% resource_link "b5d28d89-b172-40cc-96ea-f56079c0529b" "Paranoids, Pygmies, Pariahs and Nonproliferation Revisited" %}}." *Security Studies* 2, no. 3 (1993): 100-124.
 
-Singh, Sonali, and Christopher R. Way. "[The Correlates of Nuclear Proliferation: A Quantitative Test](http://jcr.sagepub.com/cgi/content/abstract/48/6/859)." *Journal of Conflict Resolution* 48, no. 6 (2004): 859-885.
+Singh, Sonali, and Christopher R. Way. "{{% resource_link "5b852d1f-8362-4770-bfb8-a57d0ec2eb8f" "The Correlates of Nuclear Proliferation: A Quantitative Test" %}}." *Journal of Conflict Resolution* 48, no. 6 (2004): 859-885.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -147,7 +147,7 @@ Students were asked to read one reading from either the Australia or Egypt lists
 
 *Australia*
 
-Walsh, Jim. "Surprise Down Under: The Secret History of Australia's Nuclear Ambitions." *Nonproliferation Review* 5, no. 1 (Fall 1997): 1-20. ([PDF](http://cns.miis.edu/npr/pdfs/walsh51.pdf))
+Walsh, Jim. "Surprise Down Under: The Secret History of Australia's Nuclear Ambitions." *Nonproliferation Review* 5, no. 1 (Fall 1997): 1-20. ({{% resource_link "66352aaf-0f34-4c94-992f-971fbbe87a3e" "PDF" %}})
 
 Paul, T. V. *Power Versus Prudence: Why Nations Forgo Nuclear Weapons*. Montreal, QB: McGill-Queens University Press, 2000, pp. 78-84. ISBN: 9780773520875.
 
@@ -155,7 +155,7 @@ Hymans, Jacques. *The Psychology of Nuclear Proliferation: Identity, Emotions an
 
 *Egypt*
 
-Walsh, Jim. [*Bombs Unbuilt: Power, Ideas, and Institutions in International Politics*](http://dspace.mit.edu/handle/1721.1/8237). Ph.D. diss, Department of Political Science, MIT, 2001. Chapters 6, 8-10.
+Walsh, Jim. {{% resource_link "a2676a67-0c96-4bbd-a446-a89943f7a767" "*Bombs Unbuilt: Power, Ideas, and Institutions in International Politics*" %}}. Ph.D. diss, Department of Political Science, MIT, 2001. Chapters 6, 8-10.
 
 *France*
 
@@ -169,9 +169,9 @@ Abraham, Itty. *The Making of the Indian Atomic Bomb: Science, Secrecy and the P
 
 Perkovich, George. *India's Nuclear Bomb: The Impact on Global Proliferation*. Berkeley, CA: University of California Press, 2001. ISBN: 9780520232105.
 
-Ollapally, Deepa M. "[Mixed Motives in India's Search for Nuclear Status](http://www.jstor.org/pss/2691652)." *Asian Survey* 41, no. 6 (2001): 925-942.
+Ollapally, Deepa M. "{{% resource_link "518112b8-a0d1-433d-8f3f-df0dab63b73c" "Mixed Motives in India's Search for Nuclear Status" %}}." *Asian Survey* 41, no. 6 (2001): 925-942.
 
-Chakma, Bhumitra. "[Toward Pokhran II: Explaining India's Nuclearisation Process](http://journals.cambridge.org/action/displayAbstract;jsessionid=9488C20A950EE315AAF8A4211C93C9EC.tomcat1?fromPage=online&aid=269490)." *Modern Asian Studies* 39, no. 1 (February 2006): 189-236.
+Chakma, Bhumitra. "{{% resource_link "3c57b9b1-2e85-40e0-bee8-6566edebb18e" "Toward Pokhran II: Explaining India's Nuclearisation Process" %}}." *Modern Asian Studies* 39, no. 1 (February 2006): 189-236.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -181,15 +181,15 @@ What Role Do Individuals and Institutions Play in Nuclear Decision Making?
 
 Lavoy, Peter. "Nuclear Myths and the Causes of Nuclear Proliferation." In *The Proliferation Puzzle: Why Nuclear Weapons Spread (and What Results)*. Edited by Zachary S. Davis and Benjamin Frankel. New York, NY: Routledge, 1993, pp. 193-199. ISBN: 9780714641089.
 
-Walsh, Jim. "[Learning from Past Success: The NPT and the Future of Nonproliferation](https://www.belfercenter.org/publication/learning-past-success-npt-and-future-non-proliferation)." WMDC Paper no. 41. Oslo: Weapons of Mass Destruction Commission, 2006, pp. 42-59.
+Walsh, Jim. "{{% resource_link "12b75dcb-dbe2-4c28-8134-f6e03f848b05" "Learning from Past Success: The NPT and the Future of Nonproliferation" %}}." WMDC Paper no. 41. Oslo: Weapons of Mass Destruction Commission, 2006, pp. 42-59.
 
-[Treaty On The Non-Proliferation Of Nuclear Weapons](http://www.fas.org/nuke/control/npt/text/npt2.htm). (1968)
+{{% resource_link "d807b033-17a4-4d78-9e44-95c2f2d9bd89" "Treaty On The Non-Proliferation Of Nuclear Weapons" %}}. (1968)
 
-International Court of Justice. "[Legality of the Use by a State of Nuclear Weapons in Armed Conflict](http://prop1.org/2000/icj.htm)." Advisory Opinion handed down on July 8, 1996, the Hague.
+International Court of Justice. "{{% resource_link "2643f1fc-58f3-413f-b0bc-b7564bbeaa88" "Legality of the Use by a State of Nuclear Weapons in Armed Conflict" %}}." Advisory Opinion handed down on July 8, 1996, the Hague.
 
-Lavoy, Peter. "Nuclear Proliferation Over the Next Decade: Cause Warning Signs, and Policy Responses." *Nonproliferation Review* 13, no. 3 (November 2006): 434-454. ([PDF](http://cns.miis.edu/npr/pdfs/133lavoy.pdf))
+Lavoy, Peter. "Nuclear Proliferation Over the Next Decade: Cause Warning Signs, and Policy Responses." *Nonproliferation Review* 13, no. 3 (November 2006): 434-454. ({{% resource_link "8d7fb983-61b8-43c6-9ce6-4788e167e4fa" "PDF" %}})
 
-Solingen, Etel. "[The Political Economy of Nuclear Restraint](http://fas.org/irp/threat/950213-nuke-usia.htm)." *International Security* 19, no. 2 (Spring 1994): 126-169.
+Solingen, Etel. "{{% resource_link "95daa535-c794-4571-b9ac-2f3d51a96e94" "The Political Economy of Nuclear Restraint" %}}." *International Security* 19, no. 2 (Spring 1994): 126-169.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -199,11 +199,11 @@ Have Nuclear Weapons Changed International Relations?
 
 Jervis, Robert. *The Meaning of the Nuclear Revolution*. Ithaca, NY: Cornell University Press, 1990, pp. 1-45. ISBN: 9780801495656.
 
-Mueller, John. "[The Essential Irrelevance of Nuclear Weapons: Stability in the Postwar World](http://www.jstor.org/stable/2538971)." *International Security* 13, no. 2 (Fall 1988): 3-17.
+Mueller, John. "{{% resource_link "fbd78f48-37a4-4d68-b82c-037a3239979f" "The Essential Irrelevance of Nuclear Weapons: Stability in the Postwar World" %}}." *International Security* 13, no. 2 (Fall 1988): 3-17.
 
 Sagan, Scott D., and Kenneth N. Waltz. *The Spread of Nuclear Weapons*. New York, NY: W.W. Norton & Company, 2002. ISBN: 9780393977479.
 
-Deudney, Daniel. "[Nuclear Weapons and the Waning of the Real-State](http://www.questia.com/googleScholar.qst;jsessionid=LX5ZZx1Tw2zqyvH2QFgHTGTMFC2470ZMsrv9QdNnpWvjJQWVqwKQ!753466322!-1036750289?docId=5000296776)." *Daedalus* 124, no. 2 (Spring 1995): 209-231.
+Deudney, Daniel. "{{% resource_link "02a15232-f4aa-4eb5-9e98-3096cadffa84" "Nuclear Weapons and the Waning of the Real-State" %}}." *Daedalus* 124, no. 2 (Spring 1995): 209-231.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -217,13 +217,13 @@ Students were asked to read the articles listed under Iran or the ones listed un
 
 Walsh, Jim. "Iran's Nuclear Program: Motivations, Consequences, and Options." In *Terrorist Attacks and Nuclear Proliferation: Strategies for Overlapping Dangers*. By Demetrios Caraley. New York, NY: Academy of Political Science, 2007. ISBN: 9781884853067.
 
-Fitzpatrick, Mark. "Assessing Iran's Nuclear Programme." *Survival* 48, no. 3 (Autumn 2006): 5-26. ([PDF](https://www.tandfonline.com/doi/full/10.1080/00396330600905494))
+Fitzpatrick, Mark. "Assessing Iran's Nuclear Programme." *Survival* 48, no. 3 (Autumn 2006): 5-26. ({{% resource_link "783b748b-e17e-4747-837c-9b891423bdc6" "PDF" %}})
 
-National Intelligence Council. 2007 National Intelligence Estimate on Iran. ([PDF](http://www.dni.gov/files/documents/Newsroom/Press%20Releases/2007%20Press%20Releases/20071203_release.pdf))
+National Intelligence Council. 2007 National Intelligence Estimate on Iran. ({{% resource_link "f751fa22-9a2c-4618-bac6-8cfd8da3b7e8" "PDF" %}})
 
-Iran's 2003 proposal to the United States ([PDF](http://www.antiwar.com/orig/porter.php?articleid=9040))
+Iran's 2003 proposal to the United States ({{% resource_link "998dec6a-3ec9-406f-853c-f684b0000a3a" "PDF" %}})
 
-IAEA reports on Iran: November, 2003 ([PDF](http://graphics8.nytimes.com/packages/pdf/world/20071115IAEA-report.pdf)); May, 2007 ([PDF](http://www.iaea.org/Publications/Documents/Board/2007/gov2007-48.pdf)).
+IAEA reports on Iran: November, 2003 ({{% resource_link "6b99440d-203f-4af5-b962-0a801f9b370f" "PDF" %}}); May, 2007 ({{% resource_link "01658605-b6a5-4b75-bf25-cf05a3d4733f" "PDF" %}}).
 
 *DPRK*
 
@@ -233,7 +233,7 @@ Snyder, Scott. *Negotiating on the Edge: North Korean Negotiating Behavior*. Was
 
 Reiss, Mitchell. "Negotiating with North Korea." Conference paper presented at US-DPRK Next Steps Workshop, Nautilus Institute and Carnegie Endowment for International Peace, January 27, 2003, pp. 1-3.
 
-"Agreed Framework Between the United States of America and the Democratic People's Republic of Korea." Geneva, 1994. ([PDF](http://www.kedo.org/pdfs/AgreedFramework.pdf))
+"Agreed Framework Between the United States of America and the Democratic People's Republic of Korea." Geneva, 1994. ({{% resource_link "32bb225f-e621-44c3-be6a-df564557fd2b" "PDF" %}})
 
 February 14th agreement
 
@@ -245,13 +245,13 @@ Walsh, Jim. "Trip Report from North Korea." 2005
 
 *Black markets and new proliferation*
 
-Albright, David, and Corey Hinderstein. "[Unraveling the A. Q. Khan and Future Proliferation Networks](https://www.tandfonline.com/doi/abs/10.1162/0163660053295176)." *The Washington Quarterly* 28, no. 2 (Spring 2005): 111-128.
+Albright, David, and Corey Hinderstein. "{{% resource_link "1c865ee5-d977-4cc0-b4e8-7108948374b5" "Unraveling the A. Q. Khan and Future Proliferation Networks" %}}." *The Washington Quarterly* 28, no. 2 (Spring 2005): 111-128.
 
-Dunn, Lewis A. "[Countering Proliferation: Insights from Past ''Wins, Losses, and Draws](http://cns.miis.edu/npr/pdfs/133dunn.pdf).'' *Nonproliferation Review* 13, no. 3 (November 2006): 479-489.
+Dunn, Lewis A. "{{% resource_link "caec6894-5160-4ed7-b90b-d25f8712076a" "Countering Proliferation: Insights from Past ''Wins, Losses, and Draws" %}}.'' *Nonproliferation Review* 13, no. 3 (November 2006): 479-489.
 
-Montgomery, Alexander H. "[Ringing in Proliferation: How to Dismantle an Atomic Bomb Network](http://www.jstor.org/stable/4137598)." *International Security* 30, no. 2 (Fall 2005): 153-187.
+Montgomery, Alexander H. "{{% resource_link "8ccaa70e-f3b3-4e4c-895d-1b7b5f042eba" "Ringing in Proliferation: How to Dismantle an Atomic Bomb Network" %}}." *International Security* 30, no. 2 (Fall 2005): 153-187.
 
-Braun, Chaim, and Christopher Chyba. "[Nuclear Proliferation Rings: New Challenges to the Nuclear Nonproliferation Regime](http://cisac.stanford.edu/publications/nuclear_proliferation_rings__new_challenges_to_the_nuclear_nonproliferation_regime/)." *International Security* 29, no. 2 (Fall 2004): 5-49.
+Braun, Chaim, and Christopher Chyba. "{{% resource_link "1fcbec00-970c-4e8a-8f8f-55353fad95a6" "Nuclear Proliferation Rings: New Challenges to the Nuclear Nonproliferation Regime" %}}." *International Security* 29, no. 2 (Fall 2004): 5-49.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -259,16 +259,16 @@ Braun, Chaim, and Christopher Chyba. "[Nuclear Proliferation Rings: New Challeng
 Nuclear Terrorism
 {{< tdclose >}}{{< tdopen >}}
 
-Bunn, Matthew. [*Securing the Bomb 2007*](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.192.693&rep=rep1&type=pdf). Cambridge, MA: Harvard University, 2007, pp. 1-40.
+Bunn, Matthew. {{% resource_link "07c22772-82fb-46b2-9011-8aaae8feb426" "*Securing the Bomb 2007*" %}}. Cambridge, MA: Harvard University, 2007, pp. 1-40.
 
-Salama, Sammy, and Lydia Hansell. "Does Intent Equal Capability? Al-Qaeda and Weapons of Mass Destruction." *Nonproliferation Review* 12, no. 3 (2005): 615-653. ([PDF](http://cns.miis.edu/npr/pdfs/123salama.pdf))
+Salama, Sammy, and Lydia Hansell. "Does Intent Equal Capability? Al-Qaeda and Weapons of Mass Destruction." *Nonproliferation Review* 12, no. 3 (2005): 615-653. ({{% resource_link "09d5a560-6ecd-4ae4-9a9f-d47f28a996bf" "PDF" %}})
 
-Mueller, John. "The Atomic Terrorist: Assessing the Likelihood." Paper prepared for presentation at the Program on International Security Policy, University of Chicago, January 15, 2008, pp. 1-28. ([PDF](https://politicalscience.osu.edu/faculty/jmueller/APSACHGO.pdf))
+Mueller, John. "The Atomic Terrorist: Assessing the Likelihood." Paper prepared for presentation at the Program on International Security Policy, University of Chicago, January 15, 2008, pp. 1-28. ({{% resource_link "5c39e5f4-1abe-4a0e-8fee-f50a4938e736" "PDF" %}})
 
-Harney, Robert, Gerald Brown, Matthew Carlyle, Eric Skroch, and Kevin Wood. "Anatomy of a Project to Produce a First Nuclear Weapon." *Science and Global Security* 14, nos. 2-3 (May-December 2006): 163-182. ([PDF](https://www.tandfonline.com/doi/full/10.1080/08929880600993105))
+Harney, Robert, Gerald Brown, Matthew Carlyle, Eric Skroch, and Kevin Wood. "Anatomy of a Project to Produce a First Nuclear Weapon." *Science and Global Security* 14, nos. 2-3 (May-December 2006): 163-182. ({{% resource_link "3652992f-1a26-46f1-a2e7-dab6f14d4cc0" "PDF" %}})
 
-Bunn, Matthew, and Anthony Wier. "[Terrorist Nuclear Weapon Construction: How Difficult](http://ann.sagepub.com/cgi/reprint/607/1/133)?" *The Annals of the American Academy of Political and Social Science* 607, no. 1 (September 2006): 133-149.
+Bunn, Matthew, and Anthony Wier. "{{% resource_link "5a0b89ed-9684-48c6-ad50-e8f8648c45ce" "Terrorist Nuclear Weapon Construction: How Difficult" %}}?" *The Annals of the American Academy of Political and Social Science* 607, no. 1 (September 2006): 133-149.
 
-Bunn, Matthew. "[A Mathematical Model of the Risk of Nuclear Terrorism](http://ann.sagepub.com/cgi/content/abstract/607/1/103)." *The Annals of the American Academy of Political and Social Science* 607, no. 1 (September 2006): 103-120.
+Bunn, Matthew. "{{% resource_link "377fa4b0-c486-47a9-aa24-4f70c7ac2f34" "A Mathematical Model of the Risk of Nuclear Terrorism" %}}." *The Annals of the American Academy of Political and Social Science* 607, no. 1 (September 2006): 103-120.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
